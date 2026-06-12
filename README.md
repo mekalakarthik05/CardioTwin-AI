@@ -65,8 +65,7 @@ CardioTwin-AI
 │   └── data_dictionary.md
 │
 ├── assets/
-│   ├── screenshots/
-│   └── demo/
+│   └── screenshots
 │
 ├── README.md
 └── .gitignore
