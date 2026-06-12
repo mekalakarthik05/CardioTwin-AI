@@ -154,9 +154,6 @@ http://localhost:5173
 
 ### Karthik Mekala
 
-Machine Learning • Deep Learning • Generative AI • Explainable AI
-
-GitHub: https://github.com/mekalakarthik05
 
 ## ⭐ Support
 
