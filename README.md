@@ -1,6 +1,5 @@
 # ❤️ CardioTwin AI
 
-<div align="center">
 
 # Explainable Cardiovascular Risk Intelligence Platform
 
@@ -14,7 +13,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Ensemble-red?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 </div>
 
