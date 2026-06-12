@@ -146,10 +146,6 @@ http://localhost:5173
 
 ![Simulator](assets/screenshots/simulator-page.png)
 
-## 🎥 Demo
-
-![Demo](assets/demo/demo.gif)
-
 ## 👨‍💻 Author
 
 ### Karthik Mekala
